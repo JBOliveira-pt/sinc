@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03fe0893-0dde-471d-b32b-2ee0ebeabdb3" name="Changes" comment="Atualização do Fórum" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JBOliveiraa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/giovanidude/upsk-java-24-03.git&quot;,
+    &quot;accountId&quot;: &quot;92cd54c1-4df6-4047-806d-781647c95a94&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2stLVuPJLmAwJ1U47Q37GjMa0uE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ExemploApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jeiso/IdeaProjects/upsk-java-24-03/src/main/webapp/WEB-INF/views&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jeiso\IdeaProjects\upsk-java-24-03\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.upskill.projeto_sinc.controllers" />
+      <recent name="pt.upskill.projeto_sinc" />
+      <recent name="pt.upskill.projeto_sinc.repositories" />
+      <recent name="pt.upskill.projeto_sinc.entities" />
+      <recent name="pt.upskill.projeto_sinc.models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExemploApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pt.upskill.projeto_sinc.ExemploApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03fe0893-0dde-471d-b32b-2ee0ebeabdb3" name="Changes" comment="" />
+      <created>1739269955425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739269955425</updated>
+      <workItem from="1739269957693" duration="7563000" />
+      <workItem from="1739278462144" duration="280000" />
+      <workItem from="1739353687383" duration="30467000" />
+      <workItem from="1739542427121" duration="1917000" />
+      <workItem from="1739646595807" duration="8999000" />
+      <workItem from="1739721842907" duration="10383000" />
+      <workItem from="1739748958279" duration="1943000" />
+      <workItem from="1739783178801" duration="11212000" />
+      <workItem from="1739801407021" duration="1986000" />
+      <workItem from="1739806988794" duration="121000" />
+      <workItem from="1739825665196" duration="983000" />
+      <workItem from="1739826669988" duration="4910000" />
+      <workItem from="1739831638626" duration="179000" />
+      <workItem from="1739870484128" duration="11676000" />
+      <workItem from="1739957126299" duration="4798000" />
+      <workItem from="1739962131033" duration="745000" />
+      <workItem from="1739963011713" duration="6398000" />
+      <workItem from="1739998066189" duration="8965000" />
+      <workItem from="1740044850401" duration="10588000" />
+      <workItem from="1740075902993" duration="4769000" />
+      <workItem from="1740127518716" duration="14318000" />
+      <workItem from="1740142835418" duration="1420000" />
+      <workItem from="1740163126571" duration="11646000" />
+      <workItem from="1740233676224" duration="12319000" />
+      <workItem from="1740316387615" duration="4505000" />
+      <workItem from="1740389021363" duration="11271000" />
+      <workItem from="1740409365323" duration="2780000" />
+      <workItem from="1740415367089" duration="85000" />
+      <workItem from="1740415472591" duration="6232000" />
+      <workItem from="1740430122429" duration="10664000" />
+      <workItem from="1740476743648" duration="9352000" />
+      <workItem from="1740562326206" duration="10338000" />
+      <workItem from="1740649392890" duration="26682000" />
+      <workItem from="1741021087964" duration="6214000" />
+      <workItem from="1741166343585" duration="15510000" />
+      <workItem from="1741185038896" duration="93000" />
+      <workItem from="1741200673964" duration="10117000" />
+      <workItem from="1741252856112" duration="11955000" />
+      <workItem from="1741269086136" duration="201000" />
+      <workItem from="1741269817214" duration="1519000" />
+      <workItem from="1741293046012" duration="9417000" />
+      <workItem from="1741339078165" duration="6721000" />
+      <workItem from="1741348577907" duration="4089000" />
+      <workItem from="1741356502605" duration="1388000" />
+      <workItem from="1741366292084" duration="14095000" />
+      <workItem from="1741385799828" duration="23980000" />
+      <workItem from="1741569291343" duration="330000" />
+      <workItem from="1741597955069" duration="66000" />
+      <workItem from="1741600334239" duration="2279000" />
+      <workItem from="1741905084907" duration="916000" />
+      <workItem from="1742314152467" duration="3000" />
+      <workItem from="1750023041393" duration="1780000" />
+    </task>
+    <task id="LOCAL-00001" summary="Atualização adicionando documentação com comentários nos principais objetos.">
+      <option name="closed" value="true" />
+      <created>1739271819095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739271819095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Atualização do USER">
+      <option name="closed" value="true" />
+      <created>1739446013060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739446013060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nova Atualização do USER">
+      <option name="closed" value="true" />
+      <created>1739526562229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739526562229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criação do estilosnewaccount.css">
+      <option name="closed" value="true" />
+      <created>1739529906095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739529906095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="signup.jsp em construção">
+      <option name="closed" value="true" />
+      <created>1739534059578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739534059578</updated>
+    </task>
+    <task id="LOCAL-00006" summary="signup.jsp ainda em construção">
+      <option name="closed" value="true" />
+      <created>1739542131151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739542131151</updated>
+    </task>
+    <task id="LOCAL-00007" summary="signup.jsp em construção (versão final)">
+      <option name="closed" value="true" />
+      <created>1739657987152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739657987152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Alteradas: User, Departament, Position, SignUpModel, estiloslogin.css e signup.jsp; para se adequarem às variáveis e lógica da nova tela de signup.jsp">
+      <option name="closed" value="true" />
+      <created>1739729109021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739729109021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Correção do nome do signup (era login) e correção de um nome em AuthController">
+      <option name="closed" value="true" />
+      <created>1739732175851</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739732175851</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Correção do nome &quot;user name&quot; em signup.jsp">
+      <option name="closed" value="true" />
+      <created>1739732467960</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739732467960</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Início da criação da tela do Painel de Controle do Administrador e seu respectivo back end, com a criação de diversas classes e alteração de outras. Falta adequar a lógica do @GetMapping da página no AuthController.">
+      <option name="closed" value="true" />
+      <created>1739796480299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739796480299</updated>
+    </task>
+    <task id="LOCAL-00012" summary="teste">
+      <option name="closed" value="true" />
+      <created>1739807049562</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739807049562</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Backend do Admin em construção">
+      <option name="closed" value="true" />
+      <created>1739879400995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739879400995</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ControlPanel em atualização">
+      <option name="closed" value="true" />
+      <created>1739968112699</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739968112699</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ControlPanel em atualização">
+      <option name="closed" value="true" />
+      <created>1740004720280</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740004720280</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ControlPanel em atualização">
+      <option name="closed" value="true" />
+      <created>1740007054987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740007054987</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Sin.Coin na pasta imagens">
+      <option name="closed" value="true" />
+      <created>1740049225832</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740049225832</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sin.Coin na pasta imagens">
+      <option name="closed" value="true" />
+      <created>1740049418672</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740049418672</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update da página e do pop-up de Post Institucional do controlPanel.jsp">
+      <option name="closed" value="true" />
+      <created>1740056548154</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740056548154</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update da página do controlPanel.jsp">
+      <option name="closed" value="true" />
+      <created>1740084736362</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740084736362</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Início do back e front end da página de Store">
+      <option name="closed" value="true" />
+      <created>1740142199196</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740142199196</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Desenvolvimento do Front da Store e padronização dos backgrounds">
+      <option name="closed" value="true" />
+      <created>1740182960981</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740182960981</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Desenvolvimento do Front da Store e pequena correção no painel de controle">
+      <option name="closed" value="true" />
+      <created>1740261068885</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261068885</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Front da Store, criação de HTML de página de erro e sua vinculação nas headers de todas as páginas">
+      <option name="closed" value="true" />
+      <created>1740323846896</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1740323846896</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Correção das telas de login, signup e botão de upload da tela de controle do admin">
+      <option name="closed" value="true" />
+      <created>1740399666137</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740399666137</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Correção da tela de controle do admin">
+      <option name="closed" value="true" />
+      <created>1740401418432</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1740401418432</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Correções do feed para apresentação do último post institucional">
+      <option name="closed" value="true" />
+      <created>1740421549087</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1740421549087</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Tela colaboradores corrigida e telas home e store com links corretos para colaboradores.">
+      <option name="closed" value="true" />
+      <created>1740436020896</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740436020896</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Correção do logo na NavBar">
+      <option name="closed" value="true" />
+      <created>1740436643066</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740436643066</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Criação do container do feed onde ficarão armazenados os últimos 3 posts institucionais">
+      <option name="closed" value="true" />
+      <created>1740441838352</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740441838352</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Criação de produtos em elaboração (precisa corrigir lógica de inserção na base de dados)">
+      <option name="closed" value="true" />
+      <created>1740485739600</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1740485739600</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Elaborados os pop-ups dos posts institucionais no feed">
+      <option name="closed" value="true" />
+      <created>1740493133267</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1740493133267</updated>
+    </task>
+    <task id="LOCAL-00033" summary="NavBar alterada: fixa, foto maior e sincoins">
+      <option name="closed" value="true" />
+      <created>1740568930299</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1740568930299</updated>
+    </task>
+    <task id="LOCAL-00034" summary="O Jose fez varias alteracoes, mas esta tudo funcionando.">
+      <option name="closed" value="true" />
+      <created>1740575394414</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1740575394414</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Correções da NavBar de todas as páginas e alterações na S.tore">
+      <option name="closed" value="true" />
+      <created>1740659061398</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1740659061398</updated>
+    </task>
+    <task id="LOCAL-00036" summary="- Store BACK: criação de carrinho de compras com armazenamento dos produtos por colaborador (falta alinhar novamente o botão)&#10;- Home FRONT: Aperfeiçoamentos dos Posts Institucionais&#10;-">
+      <option name="closed" value="true" />
+      <created>1740858173029</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1740858173029</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Logo (error.jsp)&#10;Modelos dos produtos (StoreServiceImpl)&#10;Estrutura visual (store.jsp)&#10;Número de Sincoins (colaboradores.jsp)">
+      <option name="closed" value="true" />
+      <created>1741027108204</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1741027108204</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Criação de comentário (entidade, repositório e service) e adaptação do FeedPost.">
+      <option name="closed" value="true" />
+      <created>1741172851205</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1741172851205</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Aperfeiçoamento do carrinho de compras">
+      <option name="closed" value="true" />
+      <created>1741179098100</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1741179098100</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Aperfeiçoamento do botão de editar o AboutMe no Profile e do carrinho de compras (com avisos de compra adicionada e de logout)">
+      <option name="closed" value="true" />
+      <created>1741212302894</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1741212302894</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Criação do JS de ajuda para o Post de Ajuda, Correção do Painel de Controle, Home, Profile e Store.">
+      <option name="closed" value="true" />
+      <created>1741264923233</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1741264923233</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Correção da Home (abertura do Post Institucional) e dos produtos na Store">
+      <option name="closed" value="true" />
+      <created>1741271310369</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1741271310369</updated>
+    </task>
+    <task id="LOCAL-00043" summary="BackEnd - compra dos produtos armazenados no carrinho. FrontEnd - Correção da NavBar e dos cards de posts institucionais da Home.">
+      <option name="closed" value="true" />
+      <created>1741303394678</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1741303394678</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Troca do background de todas as telas e limitação do content dos Pedidos de Ajuda">
+      <option name="closed" value="true" />
+      <created>1741352612054</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1741352612054</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Diversas alterações para acertar o visual da Home. Troca da senha e nome do Admin. Acerto da NavBar.">
+      <option name="closed" value="true" />
+      <created>1741382671922</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1741382671922</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Pequenas alterações na home">
+      <option name="closed" value="true" />
+      <created>1741442083267</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1741442083267</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Correção dos botões de post e comentário na Home e acréscimo do aviso de limite máximo para o anexo no post.">
+      <option name="closed" value="true" />
+      <created>1741459160049</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1741459160049</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Fotos dos formadores/diretores">
+      <option name="closed" value="true" />
+      <created>1741465838182</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1741465838182</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Atualização do Fórum">
+      <option name="closed" value="true" />
+      <created>1741478493425</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1741478493425</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correção das telas de login, signup e botão de upload da tela de controle do admin" />
+    <MESSAGE value="Correção da tela de controle do admin" />
+    <MESSAGE value="Correções do feed para apresentação do último post institucional" />
+    <MESSAGE value="Tela colaboradores corrigida e telas home e store com links corretos para colaboradores." />
+    <MESSAGE value="Correção do logo na NavBar" />
+    <MESSAGE value="Criação do container do feed onde ficarão armazenados os últimos 3 posts institucionais" />
+    <MESSAGE value="Criação de produtos em elaboração (precisa corrigir lógica de inserção na base de dados)" />
+    <MESSAGE value="Elaborados os pop-ups dos posts institucionais no feed" />
+    <MESSAGE value="NavBar alterada: fixa, foto maior e sincoins" />
+    <MESSAGE value="O Jose fez varias alteracoes, mas esta tudo funcionando." />
+    <MESSAGE value="Correções da NavBar de todas as páginas e alterações na S.tore" />
+    <MESSAGE value="- Store BACK: criação de carrinho de compras com armazenamento dos produtos por colaborador (falta alinhar novamente o botão)&#10;- Home FRONT: Aperfeiçoamentos dos Posts Institucionais&#10;-" />
+    <MESSAGE value="Logo (error.jsp)&#10;Modelos dos produtos (StoreServiceImpl)&#10;Estrutura visual (store.jsp)&#10;Número de Sincoins (colaboradores.jsp)" />
+    <MESSAGE value="Criação de comentário (entidade, repositório e service) e adaptação do FeedPost." />
+    <MESSAGE value="Aperfeiçoamento do carrinho de compras" />
+    <MESSAGE value="Aperfeiçoamento do botão de editar o AboutMe no Profile e do carrinho de compras (com avisos de compra adicionada e de logout)" />
+    <MESSAGE value="Criação do JS de ajuda para o Post de Ajuda, Correção do Painel de Controle, Home, Profile e Store." />
+    <MESSAGE value="Correção da Home (abertura do Post Institucional) e dos produtos na Store" />
+    <MESSAGE value="BackEnd - compra dos produtos armazenados no carrinho. FrontEnd - Correção da NavBar e dos cards de posts institucionais da Home." />
+    <MESSAGE value="Troca do background de todas as telas e limitação do content dos Pedidos de Ajuda" />
+    <MESSAGE value="Diversas alterações para acertar o visual da Home. Troca da senha e nome do Admin. Acerto da NavBar." />
+    <MESSAGE value="Pequenas alterações na home" />
+    <MESSAGE value="Correção dos botões de post e comentário na Home e acréscimo do aviso de limite máximo para o anexo no post." />
+    <MESSAGE value="Fotos dos formadores/diretores" />
+    <MESSAGE value="Atualização do Fórum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do Fórum" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
