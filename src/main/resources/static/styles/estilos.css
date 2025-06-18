@@ -1,0 +1,42 @@
+.avatar-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin:  0 auto;
+    display: block;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.nav-coin {
+    width: 32px;
+    height: 32px;
+}
+
+.active-nav {
+    border-bottom: 2px solid rgba(10, 96, 221, 0.89);
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.calendar-container {
+    background-color: #ffffff; /* White background */
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    overflow: hidden; /* Hide overflow */
+}
+
+.calendar-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    clip-path: inset(0 0 30px 0); /* Hide the bottom 30px (adjust as needed) */
+}
+
