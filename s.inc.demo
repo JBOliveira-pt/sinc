@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>S.Inc - Apresentação do Projeto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>S.Inc</h1>
+    <p>MVP do software criado em Java utilizando Spring Boot e banco de dados MySQL</p>
+  </header>
+
+  <section>
+    <h2>🌍 Contexto & Problemas</h2>
+    <ul>
+      <li><strong>SOCIAL:</strong> Promover o acesso, a partilha e a criação de conhecimentos</li>
+      <li><strong>INCLUSÃO:</strong> Estimular a inclusão diária e a integração dos novatos na cultura empresarial</li>
+      <li><strong>INTERESSES:</strong> Identificação de interesses pessoais em comum entre colaboradores</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>⚙️ Funcionalidades Principais</h2>
+    <ul>
+      <li>Painel de Controle</li>
+      <li>Posts Institucionais</li>
+      <li>Profile</li>
+      <li>Matching</li>
+      <li>Pedido de ajuda</li>
+      <li>Comentários</li>
+      <li>Avaliações</li>
+      <li>S.InCoins</li>
+      <li>S.tore</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🎥 Demonstração</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HfKCAYEddIA" 
+            title="Demonstração S.Inc" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section>
+    <h2>🔗 Links Úteis</h2>
+    <p><a href="https://github.com/JBOliveira-pt/sinc" target="_blank">GitHub - Repositório do projeto</a></p>
+    <p><a href="https://www.youtube.com/@S.Inc.ITSolutions" target="_blank">YouTube - Canal S.Inc</a></p>
+  </section>
+
+  <footer>
+    <p>Ferramentas utilizadas: IntelliJ, Spring Boot, MySQL/XAMPP, Figma, Jira</p>
+    <p>&copy; 2025 Desenvolvido por Jeison Oliveira</p>
+  </footer>
+</body>
+</html>
