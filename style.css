@@ -16,7 +16,7 @@ header {
     background-size: 180px;
     background-repeat: no-repeat;
     background-position: 120px center;
-
+    width: 100%;
     padding: 20px 20px;
     text-align: center;
     background-color: white;
@@ -78,4 +78,5 @@ footer {
     color: white;
     margin-top: 40px;
     font-size: 14px;
+    width: 100%;
 }
