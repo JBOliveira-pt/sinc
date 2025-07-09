@@ -8,10 +8,17 @@ body {
 }
 
 header {
+    background-image: url(src/main/resources/static/images/logoSincTransp.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    padding-left: 140px;
+    
     text-align: center;
     padding: 40px 20px;
     background-color: #08335A;
     color: white;
+    
 }
 
 h1 {
