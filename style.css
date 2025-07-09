@@ -11,14 +11,12 @@ header {
     background-image: url(src/main/resources/static/images/logobranco.pic-demo.sinc.png);
     background-size: 180px;
     background-repeat: no-repeat;
-    background-position: 20px center;
-    padding-left: 240px;
+    background-position: 120px center;
     
     text-align: center;
     padding: 40px 20px;
-    background-color: #08335A;
-    color: white;
-    
+    background-color: white;
+    color: #08335A;
 }
 
 h1 {
