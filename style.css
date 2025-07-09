@@ -1,0 +1,72 @@
+/* Estilo da página de apresentação S.Inc */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(60deg, #AFDEF2 20%, #ADD8E6 90%);
+    color: #08335A;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #08335A;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #08335A;
+    border-bottom: 2px solid #AFDEF2;
+    padding-bottom: 5px;
+    margin-top: 40px;
+}
+
+section {
+    margin: 40px auto;
+    width: 80%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(8, 51, 90, 0.2);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li::before {
+    content: "✔️ ";
+    color: #00a2fd;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #AFDEF2;
+    border-radius: 8px;
+}
+
+a {
+    color: #00a2fd;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #398dc3;
+    color: white;
+    margin-top: 40px;
+    font-size: 14px;
+}
