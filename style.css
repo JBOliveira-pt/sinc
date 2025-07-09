@@ -12,7 +12,8 @@ header {
     background-size: 180px;
     background-repeat: no-repeat;
     background-position: 120px center;
-    
+
+    padding: 20px 20px;
     text-align: center;
     background-color: white;
     color: #08335A;
