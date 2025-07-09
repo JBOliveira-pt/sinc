@@ -1,10 +1,14 @@
 /* Estilo da página de apresentação S.Inc */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background: linear-gradient(60deg, #AFDEF2 20%, #ADD8E6 90%);
+   
     color: #08335A;
+
+    background-image: url(src/main/resources/static/images/backgroud-demo.sinc.PNG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
 }
 
 header {
