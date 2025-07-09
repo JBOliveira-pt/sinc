@@ -96,8 +96,7 @@ footer {
     .header-content {
         flex-wrap: nowrap;
         justify-content: space-between;
-        text-align: left;
-        padding: 40px 60px;
+        text-align: center;
     }
 
     .logo-container {
