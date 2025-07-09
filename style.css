@@ -8,11 +8,11 @@ body {
 }
 
 header {
-    background-image: url(src/main/resources/static/images/logoSincTransp.png);
-    background-size: 120px;
+    background-image: url(src/main/resources/static/images/logobranco.pic-demo.sinc.png);
+    background-size: 180px;
     background-repeat: no-repeat;
     background-position: 20px center;
-    padding-left: 140px;
+    padding-left: 240px;
     
     text-align: center;
     padding: 40px 20px;
