@@ -2,7 +2,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #08335A;
-    background-image: url(src/main/resources/static/images/backgroud-demo.sinc.PNG);
+    background-image: url(https://jboliveira-pt.github.io/sinc/src/main/resources/static/images/backgroud-demo.sinc.PNG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -15,19 +15,19 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 100%;
+    min-width: 100%;
     background-color: white;
     color: #08335A;
 }
 
 .logo-container {
-    background-image: url('src/main/resources/static/images/logobranco.pic-demo.sinc.png');
+    background-image: url(https://jboliveira-pt.github.io/sinc/src/main/resources/static/images/logobranco.pic-demo.sinc.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    width: 180px;
+    width: 120px;
     height: 120px;
-    margin-bottom: 10px;
+    padding-left: 120px;
 }
 
 .title-container {
@@ -37,7 +37,7 @@ body {
 
 h1 {
     font-size: 48px;
-    margin-bottom: 10px;
+    margin: 10px;
 }
 
 h2 {
@@ -48,7 +48,7 @@ h2 {
 
 section {
     margin: auto;
-    width: 80%;
+    width: 70%;
     background-color: white;
     padding: 30px;
     border-radius: 10px;
@@ -90,10 +90,9 @@ footer {
     color: white;
     margin-top: 40px;
     font-size: 14px;
-    width: 100%;
 }
 
-@media (min-width: 767px) {
+@media (max-width: 767px) {
     .header-content {
         flex-wrap: nowrap;
         justify-content: space-between;
@@ -108,5 +107,99 @@ footer {
 
     .title-container {
         text-align: center;
+    }
+}
+
+
+/*Estilos para a Seção da Equipe*/
+.team-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    background-color: rgba(0,0,0,0);
+    box-shadow: 0px 0px 0px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 250px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-member:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.team-member-img { 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #0077B5;
+}
+
+.member-name {
+    font-size: 1.1em;
+    color: #333;
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    text-align: center;
+}
+
+.member-name .name { /* Estilo para o nome da pessoa */
+    font-weight: bold;
+    color: #333;
+    display: block; 
+    margin-bottom: 2px;
+}
+
+.member-name .title { /* Estilo para o cargo da pessoa */
+    font-size: 0.9em; /* Tamanho menor para o cargo */
+    color: #666;
+    font-weight: normal;
+    display: block; /* Garante que o span ocupe sua própria linha */
+    margin-bottom: 10px; /* Espaço entre o cargo e o logo do LinkedIn */
+}
+
+.member-name a {
+    text-decoration: none;
+    color: inherit; /* Garante que a cor do texto do link seja herdada (embora aqui só tenha imagem) */
+    display: flex; /* Para centralizar o logo dentro do link */
+    align-items: center;
+}
+
+.linkedin-logo { 
+    width: 45px; /* Tamanho desejado para o logo */
+    height: 45px; /* Mantém a proporção */
+    transition: transform 0.2s ease;
+}
+
+.linkedin-logo:hover {
+    transform: scale(1.1);
+}
+
+/*Responsividade em telas menores*/
+@media (max-width: 767px) {
+    .team-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .team-member {
+        margin-bottom: 30px;
     }
 }
