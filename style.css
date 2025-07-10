@@ -41,19 +41,40 @@ h1 {
 }
 
 h2 {
-    color: #08335A;
-    border-bottom: 2px solid #AFDEF2;
-    padding-bottom: 5px;
+  font-size: 23px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 section {
     margin: auto;
     width: 70%;
-    background-color: white;
-    padding: 30px;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(8, 51, 90, 0.2);
-    margin-top: 20px;
+    margin-top: 30px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.3);
+    animation: fadeInUp 2s ease both;
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+
+p {
+    text-align: justify;
 }
 
 ul {
@@ -121,6 +142,7 @@ footer {
     box-shadow: 0px 0px 0px;
     flex-wrap: wrap;
     text-align: center;
+    animation: fadeInUp 0.8s ease both;
 }
 
 .team-member {
@@ -133,6 +155,7 @@ footer {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #fff;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .team-member:hover {
