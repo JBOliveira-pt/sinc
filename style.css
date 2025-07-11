@@ -58,7 +58,12 @@ section {
     margin-top: 30px;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.3);
-    animation: fadeInUp 2s ease both;
+    animation: fadeInUp 1s ease both;
+}
+
+.links-section{
+    background-color: rgba(0,0,0,0);
+    box-shadow: 0px 0px 0px;
 }
 
 @keyframes fadeInUp {
@@ -95,9 +100,9 @@ iframe {
 }
 
 a {
-    color: #00a2fd;
     font-weight: bold;
     text-decoration: none;
+    color: #08335A;
 }
 
 a:hover {
@@ -111,6 +116,7 @@ footer {
     color: white;
     margin-top: 40px;
     font-size: 14px;
+    
 }
 
 @media (max-width: 767px) {
@@ -133,6 +139,20 @@ footer {
 
 
 /*Estilos para a Seção da Equipe*/
+
+.team{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    background-color: rgba(0,0,0,0);
+    box-shadow: 0px 0px 0px;
+    flex-wrap: wrap;
+    animation: fadeInUp 0.8s ease both;
+    flex-direction: column;
+    margin-bottom: 0px;
+}
+
 .team-section {
     display: flex;
     justify-content: center;
@@ -141,8 +161,13 @@ footer {
     background-color: rgba(0,0,0,0);
     box-shadow: 0px 0px 0px;
     flex-wrap: wrap;
-    text-align: center;
     animation: fadeInUp 0.8s ease both;
+    margin-top: 0px;
+}
+
+.creators {
+    text-align: left;
+    margin-bottom: 0px;
 }
 
 .team-member {
@@ -228,11 +253,26 @@ footer {
 
 
 /*Estilos para a Seção das Funcionalidades*/
+
+.mainfunctions {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    background-color: rgba(0,0,0,0);
+    box-shadow: 0px 0px 0px;
+    flex-wrap: wrap;
+    animation: fadeInUp 2s ease both;
+}
+
+.funcionalidades{
+    margin-bottom: 0px;
+}
+
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 28px 24px;
-  margin-top: 28px;
+  margin-top: 15px;
 }
 
 .func-card {
@@ -244,10 +284,13 @@ footer {
   flex-direction: column;
   align-items: center;
   transition: box-shadow 0.2s;
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .func-card:hover {
-  box-shadow: 0 4px 16px rgba(8, 51, 90, 0.13);
+  box-shadow: 0 4px 16px rgba(8, 51, 90, 0.13); 
+  transform: scale(1.08);
+  transition: 0.8s;
 }
 
 .func-card strong {
@@ -256,8 +299,8 @@ footer {
 }
 
 .func-card img {
-  width: 80%;
-  max-width: 160px;
+  width: 100%;
+  max-width: 360px;
   border-radius: 6px;
   margin-bottom: 10px;
   object-fit: cover;
