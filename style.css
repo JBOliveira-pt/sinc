@@ -95,13 +95,19 @@ footer {
 
     .logo-container {
         margin-bottom: 0;
-        margin-right: 40px;
+        margin-left: 0px;
         width: 70px;
         height: 70px;
+        padding-left: 15px;  
     }
 
     .title-container {
         text-align: center;
+    }
+
+    .navbar {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 }
 
@@ -637,6 +643,7 @@ footer {
 .navbar-toggler {
   border: none;
   outline: none;
+  padding-right: 15px;
 }
 
 .navbar-toggler-icon {
@@ -647,7 +654,7 @@ footer {
   .navbar-collapse {
     position: absolute !important;
     top: 100%;
-    right: 40px; /* igual ao padding do navbar, ajuste conforme necessário */
+    right: 15px; /* igual ao padding do navbar, ajuste conforme necessário */
     left: auto;
     width: fit-content;
     min-width: 180px;
