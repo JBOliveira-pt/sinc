@@ -96,6 +96,8 @@ footer {
     .logo-container {
         margin-bottom: 0;
         margin-right: 40px;
+        width: 70px;
+        height: 70px;
     }
 
     .title-container {
@@ -368,7 +370,6 @@ footer {
 }
 
 .plataforma-title {
-  margin-bottom: 24px;
   font-size: 2.1rem;
   letter-spacing: 1.5px;
   color: #285e8e;
@@ -458,18 +459,6 @@ footer {
   z-index: 1;
 }
 
-.plataforma-img {
-  width: 100%;
-  max-width: 320px;
-  min-width: 160px;
-  min-height: 180px;
-  border-radius: 12px;
-  box-shadow: none;
-  object-fit: contain;
-  background: none !important;
-  padding: 0 !important;
-  margin: 0;
-}
 
 /* Responsividade */
 @media (max-width: 900px) {
@@ -491,11 +480,18 @@ footer {
   }
   .plataforma-img {
     max-width: 230px;
-    min-width: 120px;
-    min-height: 120px;
+    min-width: 50px;
+    min-height: 50px;
   }
   .plataforma-tools {
     grid-template-columns: 1fr;
+  }
+  .plataforma-title {
+  font-size: 2.1rem;
+  letter-spacing: 1.5px;
+  color: #285e8e;
+  text-shadow: 0 2px 8px #c5e2f5a0;
+  font-weight: 700;
   }
 }
 
@@ -509,19 +505,25 @@ footer {
     gap: 19px;
   }
   .plataforma-title {
-    font-size: 1.27rem;
-    margin-bottom: 9px;
-    text-align: center;
-    letter-spacing: 1px;
+  font-size: 2.1rem;
+  letter-spacing: 1.5px;
+  color: #285e8e;
+  text-shadow: 0 2px 8px #c5e2f5a0;
+  font-weight: 700;
+  padding-left: 10px;
+  margin-bottom: 45px;
+  margin-top: 25px;
   }
   .plataforma-col-esq {
     padding: 0;
     gap: 9px;
   }
   .plataforma-block {
-    padding: 10px 7px 7px 7px;
+    padding: 18px 18px 10px 18px;
     font-size: 0.98em;
     margin-bottom: 3px;
+    margin-left: 15px;
+    margin-right: 15px;
   }
   .plataforma-block h4 {
     font-size: 1em;
@@ -541,12 +543,13 @@ footer {
 
 /*Demonstracao*/
 .demonstracao{
-  margin-top: 50px ;
+  margin-top: 20px;
   font-size: 2.1rem;
   letter-spacing: 1.5px;
   color: #285e8e;
   text-shadow: 0 2px 8px #c5e2f5a0;
-  font-weight: 700;  
+  font-weight: 700;
+  margin-bottom: 50px;  
 }
 
 .demonstracao:hover iframe {
@@ -621,8 +624,8 @@ footer {
 
 @media (max-width: 600px) {
   .links-grid {
-    flex-direction: column;
-    gap: 38px;
+    flex-direction:row;
+    gap: 45px;
   }
   .link-label {
     font-size: 0.95rem;
@@ -671,8 +674,8 @@ footer {
 }
 
 .demonstracao iframe {
-  width: 760px;
-  height: 515px;
+  width: 660px;
+  height: 415px;
   max-width: 100%;
   display: block;
   margin: 20px auto;
