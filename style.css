@@ -536,10 +536,13 @@ footer {
     gap: 6px;
   }
   .plataforma-img {
-    max-width: 88vw;
+    max-width: 58vw;
     min-width: 0;
     min-height: 80px;
     border-radius: 5px;
+  }
+  .plataforma-col-dir{
+    margin-bottom: 0px;
   }
   .plataforma-tools {
     grid-template-columns: 1fr;
