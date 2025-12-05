@@ -110,10 +110,16 @@ Contributions are welcome. Suggested workflow:
 
 License
 -------
-- No license file is present in the repository. Add a LICENSE (for example MIT, Apache-2.0) to allow others to reuse and contribute under clear terms.
+This project is dual-licensed under either:
+
+- MIT License (see `LICENSE-MIT`)
+- Apache License 2.0 (see `LICENSE-APACHE`)
+
+You may choose the license that best fits your needs.
 
 Contact
 -------
 Repository owner: JBOliveira-pt
 Project homepage: https://jboliveira-pt.github.io/sinc
 For technical questions or to propose changes, open an issue or a pull request on the repository.
+
